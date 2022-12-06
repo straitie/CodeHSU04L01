@@ -1,4 +1,14 @@
+/*
+Learning Targets:
+Students will be able to:
 
+    *Represent iterative processes using a while loop
+    *Execute a return or break statement inside an iteration statement to halt the loop and exit the method
+    *Develop an algorithm
+    *Identify if an integer is or is not evenly divisible by another integer
+    *Determine a minimum or maximum value
+    *Compute a sum, average, or mode
+ */
 /*
     Template for while loop
 
